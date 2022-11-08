@@ -1,5 +1,17 @@
-$primaryBtn : #ff77ee
+$primaryBtn : #ff77ee;
+$navBar: rgb(156, 60, 134);
+$textcolor: black;
+
 body {
     background: lightblue;
   }
-  
+  .form_button{
+    background: $primaryBtn;
+  }
+header {
+    background: $navBar;
+
+}
+.icons-section {
+    list-style: none;
+}

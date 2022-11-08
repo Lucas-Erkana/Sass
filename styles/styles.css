@@ -1,3 +1,15 @@
 body {
   background: lightblue;
+}
+
+.form_button {
+  background: #ff77ee;
+}
+
+header {
+  background: rgb(156, 60, 134);
+}
+
+.icons-section {
+  list-style: none;
 }/*# sourceMappingURL=styles.css.map */
